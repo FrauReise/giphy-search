@@ -1,0 +1,15 @@
+.main-title {
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    color: white;
+    background-color: rgb(133, 42, 218);
+    border: none;
+}
